@@ -1,0 +1,5 @@
+[profile master_payer]
+region = ${region_primary}
+role_arn = ${role_arn}
+source_profile = default
+
